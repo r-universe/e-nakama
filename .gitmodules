@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RhpcBLASctl"]
+	path = RhpcBLASctl
+	url = https://github.com/cran/RhpcBLASctl
+	shallow = true
+	registered = true
 [submodule "Rrdrand"]
 	path = Rrdrand
 	url = https://github.com/e-nakama/rrdrand
