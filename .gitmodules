@@ -8,8 +8,3 @@
 	url = https://github.com/cran/RhpcBLASctl
 	shallow = true
 	registered = true
-[submodule "Rrdrand"]
-	path = Rrdrand
-	url = https://github.com/e-nakama/rrdrand
-	shallow = true
-	registered = true
