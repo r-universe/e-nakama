@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RhpcBLASctl"]
 	path = RhpcBLASctl
-	url = https://github.com/cran/RhpcBLASctl
+	url = https://github.com/e-nakama/rhpcblasctl
